@@ -1,9 +1,9 @@
-url: https://y7kim.github.io
+url: https://autocare.ai
 baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: AUTOCARE
+email: autocare@autocare.ai
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Sozo Inoue
   pic: 2
   position: Lead Marketer
   social:
@@ -31,16 +31,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
