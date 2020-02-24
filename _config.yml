@@ -10,8 +10,9 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: 岸田 隆之
-  pic: 1
+  pic: kishida
   position: CEO
+  bio: 九州工業大学卒業後、地元福祉機器メーカーに就職。その後、介護保険事業所の開設、福祉用具事業所向けシステムの開発に携わる。
   social:
     - title: twitter
       url: #
@@ -23,6 +24,7 @@ people:
 - name: 井上 創造
   pic: sozo
   position: CTO
+  bio: 九州工業大学大学院生命体工学科准教授。スマートフォン行動認識技術で国際会議等を運営する。
   social:
     - title: twitter
       url: #
