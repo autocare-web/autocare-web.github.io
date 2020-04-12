@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Newborn
 subtitle: 合同会社を設立しました。
 layout: default
