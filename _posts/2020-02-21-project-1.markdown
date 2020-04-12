@@ -2,7 +2,6 @@
 layout: post
 title: Newborn
 subtitle: 合同会社を設立しました。
-layout: default
 modal-id: 1
 date: 2020/2/21
 img: autocare-box.png
