@@ -1,11 +1,11 @@
 ---
 title: Newborn
-subtitle: 合同会社設立しました。
+subtitle: 合同会社を設立しました。
 layout: default
 modal-id: 1
 date: 2020-02-21
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: autocare-box.png
+thumbnail: autocare-box.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
