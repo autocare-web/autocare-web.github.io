@@ -13,13 +13,13 @@ people:
   pic: kishida
   position: CEO
   bio: 九州工業大学卒業後、地元福祉機器メーカーに就職。その後、介護保険事業所の開設、福祉用具事業所向けシステムの開発に携わる。
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
 
 - name: 井上 創造
   pic: sozo
@@ -27,11 +27,11 @@ people:
   bio: 九州工業大学大学院生命体工学科准教授。スマートフォン行動認識技術で国際会議等を運営する。
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/sozo_inoue
     - title: facebook
-      url: #
+      url: https://www.facebook.com/sozo.inoue
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/sozo-inoue-34b8a41b/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
