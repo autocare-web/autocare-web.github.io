@@ -1,9 +1,9 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Newborn
+subtitle: 合同会社設立しました。
 layout: default
-modal-id: 2
-date: 2014-07-17
+modal-id: 1
+date: 2020-02-21
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
