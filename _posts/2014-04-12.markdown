@@ -1,9 +1,9 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Support
+subtitle: ニュースリリース
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 2
+date: 2020-04-12
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
