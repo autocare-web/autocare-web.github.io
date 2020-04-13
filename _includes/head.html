@@ -8,8 +8,8 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <!--meta property="og:type" content="company"-->
     <meta property="og:url" content="{% if page.title %}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
-    <meta property="og:site_name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:description" content="{% if page.description %}{{ page.subtitle }} {{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:site_name" content="{% if page.title %}{{ page.title }}: {{ page.subtitle}}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ site.thumbnail }}{% endif %}">
     
     <link rel="shortcut icon" href="/favicon.ico">
