@@ -7,6 +7,7 @@ date: 2020-04-12
 img: /img/news/seminar20200312.png
 thumbnail: /img/news/seminar20200312-thumb.png
 alt: Seminar
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+host: 九州工業大学
+description: 私たちは、「テクノロジーは学びとともにある」との思いのもと、介護ITインストラクターの養成を目指しています。介護とITに詳しいインストラクターを養成するための講座を、プレ開催しました。5人の受講者からは、「情報技術についてもっと深く学ぼうと感じた。用語の一つ一つを覚える事によって様々な場面で役立つと感じた。もっと広げていってほしい。」といった感想を得ました。
 
 ---
