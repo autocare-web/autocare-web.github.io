@@ -22,6 +22,11 @@
                 <strong><a href="http://startbootstrap.com">{{ page.date | date: "%Y/%m/%d" }}</a>
                 </strong>
              </li>
+             {% if page.host %}
+             <li>主催:
+                <strong>{{ page.host }}</strong>
+             </li>
+             {% endif %}
              <!--<li>Service:
                <strong><a href="http://startbootstrap.com">{{ page.category }}</a>
                </strong>
