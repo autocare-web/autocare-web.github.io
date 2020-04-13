@@ -4,7 +4,7 @@ title: Exercise
 subtitle: FonLogアプリは在宅ワーカーの生活週間・運動記録用にも使えます。
 modal-id: 3
 date: 2020-04-11
-img: /img/news/20200413excercise.png
+img: /img/news/20200413exercise.png
 thumbnail: /img/news/20200413excercise-thumb.png
 alt: Smartphone image
 host: 九州工業大学 井上創造研究室
