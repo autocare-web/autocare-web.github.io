@@ -6,9 +6,7 @@ modal-id: 1
 date: 2020/2/21
 img: /img/news/autocare-box.png
 thumbnail: /img/news/autocare-box-thumb.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+alt: Autocare logo
+description: 国立大学法人 九州工業大学の技術を社会に役立てる大学発スタートアップとして、合同会社AUTOCAREを設立しました。 スマートフォンAI行動認識とAIビッグデータ分析を生かしたサービスを展開します。どうぞ、よろしくお願いいたします。
 
 ---
