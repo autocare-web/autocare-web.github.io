@@ -3,7 +3,7 @@ layout: post
 title: Seminar
 subtitle: 介護ITインストラクター養成講座をプレ開催しました。
 modal-id: 2
-date: 2020-04-12
+date: 2020-03-12
 img: /img/news/seminar20200312.png
 thumbnail: /img/news/seminar20200312-thumb.png
 alt: Seminar
