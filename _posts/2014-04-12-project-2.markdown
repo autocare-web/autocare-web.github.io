@@ -4,8 +4,8 @@ title: Seminar
 subtitle: 介護ITインストラクター養成講座
 modal-id: 2
 date: 2020-04-12
-img: seminar20200312.png
-thumbnail: seminar20200312.png
+img: /img/news/seminar20200312.png
+thumbnail: /img/news/seminar20200312.png
 alt: Seminar
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
