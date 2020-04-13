@@ -2,9 +2,10 @@ url: https://autocare.ai
 baseurl: /
 
 # Site settings
-title: AUTOCARE
+title: "AUTOCARE LLC"
 email: autocare@autocare.ai
 description: "スマートフォンAI行動認識とAIビッグデータ分析を生かしたサービスを展開します。"
+thumnail: "/img/header-sumnail.png"
 
 
 # Team names, titles and social links
