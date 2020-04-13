@@ -5,7 +5,7 @@ subtitle: 合同会社を設立しました。
 modal-id: 1
 date: 2020/2/21
 img: /img/news/autocare-box.png
-thumbnail: /img/news/autocare-box.png
+thumbnail: /img/news/autocare-box-thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
