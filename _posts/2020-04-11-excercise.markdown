@@ -6,7 +6,7 @@ modal-id: 3
 date: 2020-04-11
 img: /img/news/20200413excercise.jpg
 thumbnail: /img/news/20200413excercise-thumb.png
-alt: Seminar
+alt: Smartphone image
 host: AUTOCARE
 description: 緊急事態宣言で、Stay Homeが叫ばれていますが、家にこもる→運動不足・生活習慣の乱れ→ストレス・免疫力低下、の恐れがあります。
 現在介護施設向けに提供している介護自動記録アプリFonLogは、在宅ワーカーの生活習慣・運動記録用にも使うことができます。
