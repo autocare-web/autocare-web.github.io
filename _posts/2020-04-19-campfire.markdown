@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crowdfunding
-subtitle: 外出自粛を受け、高齢者のためにクラウドファンディングを実施します。
+subtitle: コロナウィルスの蔓延を受け、高齢者のためにクラウドファンディングを実施します。
 modal-id: 4
 date: 2020-04-19
 img: /img/news/campfire20200419-2.jpg
