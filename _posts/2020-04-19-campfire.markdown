@@ -4,8 +4,8 @@ title: Crowdfunding
 subtitle: 外出自粛を受け、高齢者のためにクラウドファンディングを実施します。
 modal-id: 4
 date: 2020-04-19
-img: /img/news/campfire20200419.jpg
-thumbnail: /img/news/campfire20200419.jpg
+img: /img/news/campfire20200419-2.jpg
+thumbnail: /img/news/campfire20200419-2.jpg
 alt: Crowdfunding
 host: AUTOCARE
 description: "私たちは、この度のコロナウィルスの蔓延を前に、介護施設や自宅から自由に動けなくなりがちな高齢者にも、遠隔ミーティングなどのITの恩恵を提供することで、高齢者の心身の健康を守りたい、と思い、クラウドファンディングでプロジェクトを計画しています。<br/>乞うご期待ください。"
