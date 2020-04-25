@@ -8,7 +8,9 @@ img: /img/header-thumbnail.png
 thumbnail: /img/header-thumbnail.png
 alt: Study meeting
 host: AUTOCARE
-description: "「介護ITオンライン勉強会」は、介護・福祉業界に関わる方々が、ITの基礎からIT機器運用ノウハウまで学べる勉強会です！
+---
+
+「介護ITオンライン勉強会」は、介護・福祉業界に関わる方々が、ITの基礎からIT機器運用ノウハウまで学べる勉強会です！
 
 オンライン勉強会では、回ごとにテーマを決め、そのテーマに関連する事（関連すると発表者が思えばどんな内容でも結構です！）について事前に調べて、スライドを準備いただき、10分程度の発表をしていただきます。それに対して聴講者からの質問やコメントを受け付けます。
 
@@ -32,9 +34,3 @@ description: "「介護ITオンライン勉強会」は、介護・福祉業界�
 
 申し込みはこちらから：
 <a href="https://autocare.stores.jp">https://autocare.stores.jp</a>
-
-"
-
-
-
----
