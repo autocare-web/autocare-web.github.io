@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Crowdfunding
-subtitle: コロナウィルスの蔓延を受け、高齢者のためにクラウドファンディングを実施します。
+title: Study group
+subtitle: 介護・福祉業界に関わる方々がITを学べる、介護ITオンライン勉強会を始めます。
 modal-id: 4
 date: 2020-04-25
 img: /img/news/header-thumbnail.png
