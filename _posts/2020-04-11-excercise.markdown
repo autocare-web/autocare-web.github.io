@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exercise
-subtitle: FonLogアプリは在宅ワーカーの生活週間・運動記録用にも使えます。
+subtitle: FonLogアプリは在宅ワーカーの生活週間・運動記録用にも使えます。多くの方に届けます！
 modal-id: 3
 date: 2020-04-11
 img: /img/news/20200413exercise.png
