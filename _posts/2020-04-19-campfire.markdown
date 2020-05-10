@@ -4,12 +4,13 @@ title: Crowdfunding
 subtitle: コロナウィルスの蔓延を受け、高齢者のためにクラウドファンディングを実施します。
 modal-id: 4
 date: 2020-04-19
-img: /img/news/campfire20200419-2.png
-thumbnail: /img/news/campfire20200419-2.png
+img: /img/news/campfire.png
+thumbnail: /img/news/campfire.png
 alt: Crowdfunding
 host: AUTOCARE
-description: "私たちは、この度のコロナウィルスの蔓延を前に、介護施設や自宅から自由に動けなくなりがちな高齢者にも、遠隔ミーティングなどのITの恩恵を提供することで、高齢者の心身の健康を守りたい、と思い、クラウドファンディングでプロジェクトを計画しています。<br/>乞うご期待ください。"
-
-
-
 ---
+
+この度のコロナウィルスの蔓延を前に、介護施設や自宅から自由に動けなくなりがちな高齢者にも、遠隔ミーティングなどのITの恩恵を提供することで、高齢者の心身の健康を守りたい、と思い、クラウドファンディングを実施しています。
+
+<a href="https://camp-fire.jp/projects/262369">https://camp-fire.jp/projects/262369</a>
+から、ぜひご支援いただければと思います。
