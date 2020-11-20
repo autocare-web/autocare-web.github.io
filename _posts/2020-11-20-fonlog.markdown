@@ -3,7 +3,7 @@ layout: post
 title: FonLog
 subtitle: 介護・福祉業界に関わる方々がITを学べる、介護ITオンライン勉強会
 modal-id: 4
-date: 2020-１１−20
+date: 2020-11-20
 img: /img/news/fonlog.png
 thumbnail: /img/news/fonlog.png
 alt: FonLog
