@@ -4,8 +4,8 @@ title: FonLog
 subtitle: 介護・福祉業界に関わる方々がITを学べる、介護ITオンライン勉強会
 modal-id: 4
 date: 2020-１１-２０
-img: /img/fonlog.png
-thumbnail: /img/fonlog.png
+img: /img/news/fonlog.png
+thumbnail: /img/news/fonlog.png
 alt: FonLog
 host: AUTOCARE
 ---
@@ -14,6 +14,10 @@ host: AUTOCARE
 
 介護記録や転記に時間をとられていませんか？
 国立大学法人九州工業大学で開発された介護自動記録AIアプリFonLog は、IoT行動認識技術で介護記録を自動化する、世界トップクラスの国際論文誌に掲載されたスマホアプリです。
+
+<img src="/img/news/fonlog1.png"/>
+
+<img src="/img/news/fonlog2.png"/>
 
 
 ITは不安・苦手だから、確かめながら進められるお試しのステップです：
