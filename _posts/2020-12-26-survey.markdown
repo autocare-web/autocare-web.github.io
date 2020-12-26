@@ -1,0 +1,15 @@
+---
+layout: post
+title: Survey
+subtitle: 介護IT活用アンケート実施中
+modal-id: 4
+date: 2020-12-26
+img: /img/news/fonlog.png
+thumbnail: /img/news/fonlog.png
+alt: FonLog
+host: AUTOCARE
+---
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfsryl2hPSGvAiq_5goyZq1feRBnJnsiyuA4jztZGDwRPhfWA/viewform">介護業界におけるIT活用に関するアンケート</a>
+
