@@ -22,6 +22,6 @@ AI介護記録アプリ「FonLog」の実証実験施設では、手書きによ
 よろしくお願いいたします。
 
 <h3>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfsryl2hPSGvAiq_5goyZq1feRBnJnsiyuA4jztZGDwRPhfWA/viewform">介護業界におけるIT活用に関するアンケート</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfsryl2hPSGvAiq_5goyZq1feRBnJnsiyuA4jztZGDwRPhfWA/viewform">介護業界におけるIT活用に関するアンケートはこちら。</a>
 </h3>
 
